@@ -1,10 +1,10 @@
 Zone;Zone description;SLA;Leadtime
-Z6;Pending;ROV;100
-Z6;Pending;CRV;100
-Z6;Pending;AOV;100
-Z5;Other;ROV;72
-Z5;Other;CRV;48
-Z5;Other;AOV;24
+Z6;Others;ROV;72
+Z6;Others;CRV;48
+Z6;Others;AOV;24
+Z5;LATAM;ROV;72
+Z5;LATAM;CRV;48
+Z5;LATAM;AOV;24
 Z4;N.A.;ROV;72
 Z4;N.A.;CRV;48
 Z4;N.A.;AOV;24
