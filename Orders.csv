@@ -4,8 +4,7 @@ Type;Direction;DSV-CW Ref.;Goods Description;Pcs;UQ;Gwgt;UQ;Cwgt;UQ;Volume;UQ;NO
 (Weekday: 1-Mon // 7-Sun)";ACTUAL Delivery & Time;Delivery day;Notificacion vs delivery (h);"ACTUAL Delivery & Time
 (Weekday: 1-Mon // 7-Sun)";SLA (Days);Total (Days);"Delay (Days)
 (In positive - Lates)";Additional Terms;Consolidation;Service Level;DGR;Real Origin Airport;Real Destination Airport;"CTRY 
-ORIGIN-DESTINATION";"AIRPORT 
-ORIGIN-DESTINATION";ZONE;Tiempo (h);Request weekday;Request Delivery Day
+ORIGIN-DESTINATION";AIRPORT ORIGIN-DESTINATION;ZONE;Tiempo (h);Request weekday;Request Delivery Day
 ROA;Export;SBCN0269394;ENGINE 645612 + STAND;1;PCE;9800;KG;9800;KG;30;M3;07/05/2025 15:41;;3;08/05/2025;;3:52:00;4;09/05/2025 14:00;5;09/05/2025 15:00;;47:19:00;5;3;0,8;-2,2;ENGINE + STAND (ROAD);;ROV;Non HAZ;BCN;MAD;ES-ES;BCN - MAD;Z1;47:19:00;mi;vi
 ROA;Export;SBCN0266096;ENGINE P800230 + STAND SN341;2;PCE;8025;KG;8025;KG;43,702;M3;03/04/2025 12:29;;4;03/04/2025;;6:41:00;4;04/04/2025 13:00;5;04/04/2025 0:00;;11:31:00;5;3;1;-2;ENGINE + STAND - ROAD VY;;ROV;Non HAZ;BCN;MAD;ES-ES;BCN - MAD;Z1;11:31:00;ju;vi
 ROA;Export;SBCN0257348;CIVIL AIRCRAFT ENGINE;1;CRT;7200;KG;9318,681;KG;27,984;M3;16/01/2025 18:30;;4;16/01/2025;;0:00:00;4;21/01/2025 10:40;2;21/01/2025 10:40;;112:10:00;2;2;4,7;2,7;ROAD;;AOV;Non HAZ;BCN;LHR;ES-GB;BCN - LHR;Z3;112:10:00;ju;ma
